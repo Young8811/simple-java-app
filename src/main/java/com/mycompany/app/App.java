@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("what the hell go to heaven!!!!???");
+        System.out.println("what the hell go to heaven!!!!???!!!");
     }
 
     public String getMessage() {
